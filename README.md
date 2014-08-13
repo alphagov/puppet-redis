@@ -1,3 +1,13 @@
+Do not use this module - it's not actively maintained
+=====================================================
+
+Some alternatives:
+
+- The original upstream (most similar): https://github.com/thomasvandoren/puppet-redis (installs Redis from tarball)
+- The one we migrated to: https://github.com/fsalum/puppet-redis/ - installs from package, configurable
+- Another alternative: https://github.com/arioch/puppet-redis/ - installs from package, very configurable, uses augeas
+
+
 redis puppet module
 ===================
 
